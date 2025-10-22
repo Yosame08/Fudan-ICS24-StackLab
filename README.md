@@ -15,8 +15,8 @@ email: yuchenwang21@m.fudan.edu.cn yyang21@m.fudan.edu.cn
 本次Lab由三个部分组成：
 
 - 尝试在含有漏洞的程序中实现**任意代码执行**
-- 学习 Canary 机制，了解栈溢出的防御
-- 尝试使用栈帧完成更多有意思的功能（参考资料：2022年Kieray Lab，作者：虎鲸）
+- 学习 Canary 机制，了解栈溢出的防御 @[杨洋](https://github.com/Cameudis)
+- 尝试使用栈帧完成更多有意思的功能（参考资料：2022年Kieray Lab，作者：@[虎鲸](https://github.com/zzzly3)）@[王雨晨](https://github.com/Yosame08)
 
 ## 一、危险的计算器
 
